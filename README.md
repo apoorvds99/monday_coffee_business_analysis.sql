@@ -15,6 +15,13 @@ The dataset contains four tables:
 3. products – product catalog
 4. sales – transaction-level data
 
+### Dataset Size
+- Cities: 14
+- Customers: 497
+- Products: 28
+- Sales transactions: 10,388
+- Sales period: Jan 2023 – Oct 2024
+
 ---
 
 ## Business Questions Solved
@@ -76,3 +83,22 @@ The dataset contains four tables:
 ## Tools Used
 - PostgreSQL
 - SQL
+  
+---
+
+## Project Structure
+
+monday-coffee-business-analysis
+│
+├── data
+│   ├── city.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   └── sales.csv
+│
+├── schemas.sql
+├── model_diagram.png
+├── monday_coffee_business_analysis.sql
+└── README.md
+
+
