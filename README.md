@@ -36,15 +36,21 @@ The dataset contains four tables:
 
 ---
 
+## Key Results
+- Total revenue exceeded ₹60 lakh across 10,000+ transactions.
+- Repeat customer rate reached 100%, indicating strong customer loyalty.
+- Cold Brew Coffee Pack was the top-selling product across most cities.
+- Pune and Jaipur showed the highest revenue efficiency per capita and per rent.
+- Revenue fluctuated month-to-month, suggesting seasonal or campaign-driven demand.
+  
+---
+
 ## Key Business Insights
 
-- The company generated over ₹60 lakh in total revenue during the analysis period.
-- Revenue showed fluctuations month-to-month, indicating possible seasonality or campaign-driven sales.
-- The Cold Brew Coffee Pack is the top-performing product across most cities.
 - A small group of customers contributes a significant portion of total revenue.
-- The repeat customer rate is extremely high, indicating strong customer loyalty.
-- Pune and Jaipur show the highest revenue efficiency, both per capita and relative to rent.
-- Metro cities like Bangalore and Delhi have high revenue but lower profitability due to higher rent.
+- Core coffee products dominate both revenue and sales volume.
+- High-rent metro cities generate strong revenue but lower efficiency.
+- Mid-sized cities like Pune and Jaipur show higher profitability potential.
 
 ---
 
