@@ -88,7 +88,7 @@ The dataset contains four tables:
 
 ## Project Structure
 
-monday-coffee-business-analysis
+monday-coffee-sql-analysis
 │
 ├── data
 │   ├── city.csv
