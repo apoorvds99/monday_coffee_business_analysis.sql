@@ -63,7 +63,7 @@ The dataset contains four tables:
 - GROUP BY and HAVING
 - Subqueries
 - Common Table Expressions (CTEs)
-- Window functions (ROW_NUMBER, LAG)
+- Window functions
 
 ---
 
